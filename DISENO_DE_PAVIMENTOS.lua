@@ -8,6 +8,7 @@ platform.apilevel = '2.0'
 ----   Jim Bauwens    ----
 ---- Adrien Bertrand  ----
 ---- Enrrique Portuguez---
+----Gino Perales----------
 --------------------------
 ----  TI-Planet.org   ----
 ---- Inspired-Lua.org ----
